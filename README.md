@@ -9,4 +9,3 @@
 - ⚡ C programming language
 
 - 📫 contact@ostara.work
-
