@@ -11,5 +11,5 @@
 - 📫 contact@ostara.work
 
 <p align="center">
-  <img src="assets/gradssg.svg" alt="GRAD SSG" width="500">
+  <img src="assets/gradssg.svg" alt="GRAD SSG" width="300">
 </p>
