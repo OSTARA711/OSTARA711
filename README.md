@@ -2,6 +2,8 @@
 <tr>
 <td width="50%" valign="top">
 
+<br>
+
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
 
 ### Technology Stack
