@@ -1,6 +1,6 @@
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
 
@@ -14,9 +14,9 @@
 
 </td>
 
-<td align="center" width="220">
+<td width="50%" align="center" valign="middle">
 
-<img src="assets/gradssg.svg" width="300" alt="GRAD SSG">
+<img src="assets/gradssg.svg" width="90%" alt="GRAD SSG">
 
 </td>
 </tr>
