@@ -10,6 +10,6 @@
 
 - 📫 contact@ostara.work
 
-<p align="left">
-  <img src="assets/gradssg.svg" alt="GRAD SSG" width="320">
+<p align="center">
+  <img src="assets/gradssg.svg" alt="GRAD SSG" width="500">
 </p>
