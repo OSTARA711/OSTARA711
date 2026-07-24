@@ -9,3 +9,5 @@
 - ⚡ C programming language
 
 - 📫 contact@ostara.work
+
+![GRAD SSG](assets/gradssg.svg)
