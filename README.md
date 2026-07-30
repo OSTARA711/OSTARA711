@@ -10,7 +10,7 @@
 
 ![](https://img.shields.io/badge/debian-CE0056?style=for-the-badge&logo=debian&logoColor=white)
 
-- 🌱 I'm currently learning GTK4
+- 🌱 I am developing **Sulis** UI Library Ecosystem – SUILE
 - ⚡ C programming language
 - 📫 contact@ostara.work
 
