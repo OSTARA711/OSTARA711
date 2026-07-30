@@ -10,7 +10,7 @@
 
 ![](https://img.shields.io/badge/debian-CE0056?style=for-the-badge&logo=debian&logoColor=white)
 
-- 🌱 I am developing **Sulis** UI Library Ecosystem – SUILE
+- 🌱 I am developing **Sulis** UI Library Ecosystem
 - ⚡ C programming language
 - 📫 contact@ostara.work
 
