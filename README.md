@@ -10,7 +10,7 @@
 
 ![](https://img.shields.io/badge/debian-CE0056?style=for-the-badge&logo=debian&logoColor=white)
 
-- 🌱 I am developing **Sulis** Unified Language & Interface System
+- 🌱 **Sulis** Unified Language & Interface System
 - ⚡ C programming language
 - 📫 contact@ostara.work
 
