@@ -12,7 +12,8 @@
 
 - 🌱 **Sulis** Unified Language & Interface System
 - ⚡ C programming language
-- 📫 contact@ostara.work
+- 💦 TypeScript
+- 🗳️ contact@ostara.work
 
 </td>
 
