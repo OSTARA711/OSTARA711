@@ -11,7 +11,8 @@
 ![](https://img.shields.io/badge/debian-CE0056?style=for-the-badge&logo=debian&logoColor=white)
 
 - 🌱 **Sulis** Unified Language & Interface System
-- ⚡ C programming language
+- 🗃️ Structured Query Language, **SQL**
+- ⚡ **C** programming language
 - 💦 TypeScript
 - 🗳️ contact@ostara.work
 
